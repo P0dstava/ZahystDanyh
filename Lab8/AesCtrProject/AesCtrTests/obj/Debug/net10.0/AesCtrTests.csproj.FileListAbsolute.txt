@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\Універ\Київ\ZahystDanyh\ZahystDanyh\Lab8\AesCtrProject\AesCtrTests\obj\Debug\net10.0\AesCtrTests.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Універ\Київ\ZahystDanyh\ZahystDanyh\Lab8\AesCtrProject\AesCtrTests\obj\Debug\net10.0\AesCtrTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Універ\Київ\ZahystDanyh\ZahystDanyh\Lab8\AesCtrProject\AesCtrTests\obj\Debug\net10.0\AesCtrTests.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Універ\Київ\ZahystDanyh\ZahystDanyh\Lab8\AesCtrProject\AesCtrTests\obj\Debug\net10.0\AesCtrTests.AssemblyInfo.cs
+C:\Users\HP\Desktop\Універ\Київ\ZahystDanyh\ZahystDanyh\Lab8\AesCtrProject\AesCtrTests\obj\Debug\net10.0\AesCtrTests.csproj.CoreCompileInputs.cache
